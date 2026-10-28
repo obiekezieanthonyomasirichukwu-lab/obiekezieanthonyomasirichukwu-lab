@@ -1,4 +1,4 @@
- Hi, I'm a Data Analyst 👋
+*Hi, I'm a Data Analyst 👋*
 
 Turning Raw Data into Meaningful Insights
 
